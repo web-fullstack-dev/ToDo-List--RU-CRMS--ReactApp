@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/ToDo-List--RU-CRMS--ReactApp/static/js/main.ec889a82.js",
+    "static/js/787.c4565207.chunk.js": "/ToDo-List--RU-CRMS--ReactApp/static/js/787.c4565207.chunk.js",
+    "index.html": "/ToDo-List--RU-CRMS--ReactApp/index.html",
+    "main.ec889a82.js.map": "/ToDo-List--RU-CRMS--ReactApp/static/js/main.ec889a82.js.map",
+    "787.c4565207.chunk.js.map": "/ToDo-List--RU-CRMS--ReactApp/static/js/787.c4565207.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ec889a82.js"
+  ]
+}
