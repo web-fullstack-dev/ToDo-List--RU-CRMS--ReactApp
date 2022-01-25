@@ -11,7 +11,7 @@ const Projects = () => (
     <Link href={"https://mr-front-end-dev.github.io/ToDo-List--FR-CRMS--ReactApp"}><Button>FR</Button></Link>
     <Link href={"https://mr-front-end-dev.github.io/ToDo-List--PL-CRMS--ReactApp"}><Button>PL</Button></Link>
     <Link href={"https://mr-front-end-dev.github.io/ToDo-List--UA-CRMS--ReactApp"}><Button>UA</Button></Link>
-    <Link href={"https://mr-front-end-dev.github.io/ToDo-List--EN-TEYE--ReactApp"}><Button teal>🌓</Button></Link>
+    <Link href={"https://mr-front-end-dev.github.io/ToDo-List--EN-TEYE--ReactApp"}><Button deepSkyBlue>🌓</Button></Link>
   </Links>
 )
 
