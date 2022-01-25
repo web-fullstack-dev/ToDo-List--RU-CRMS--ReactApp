@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/ToDo-List--RU-CRMS--ReactApp/static/js/main.7e7bca72.js",
+    "main.js": "/ToDo-List--RU-CRMS--ReactApp/static/js/main.6a4cef0d.js",
     "static/js/787.c4565207.chunk.js": "/ToDo-List--RU-CRMS--ReactApp/static/js/787.c4565207.chunk.js",
     "index.html": "/ToDo-List--RU-CRMS--ReactApp/index.html",
-    "main.7e7bca72.js.map": "/ToDo-List--RU-CRMS--ReactApp/static/js/main.7e7bca72.js.map",
+    "main.6a4cef0d.js.map": "/ToDo-List--RU-CRMS--ReactApp/static/js/main.6a4cef0d.js.map",
     "787.c4565207.chunk.js.map": "/ToDo-List--RU-CRMS--ReactApp/static/js/787.c4565207.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.7e7bca72.js"
+    "static/js/main.6a4cef0d.js"
   ]
 }
