@@ -13,7 +13,7 @@ function TasksPage() {
   return (
     <Container>
       <Projects />
-      <Header title="Список дел" />
+      <Header title="Список заданий  " />
       <Section 
         title="Добавить новое задание" 
         body={<Form />} 
@@ -23,7 +23,7 @@ function TasksPage() {
         body={<Search />} 
         />
       <Section 
-        title="Список дел"
+        title="Список заданий  "
         body={<TaskList />}
         extraHeaderContent={<Buttons />}
         />

@@ -38,7 +38,7 @@ const Form = () => {
         ref={inputRef}
         value={newTaskContent}
         type="text" 
-        placeholder="Что нужно сделать?" 
+        placeholder="Что нужно сзаданий  ать?" 
         onChange={({ target }) => setNewTaskContent(target.value)}
         required 
       />
