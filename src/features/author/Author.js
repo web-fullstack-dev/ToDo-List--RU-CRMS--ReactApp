@@ -7,7 +7,7 @@ export default () => (
   <Container>
       <Header title="Об авторе" />
       <Section 
-        title="Никита Рысиев" 
+        title="Никита Рысьев" 
         body={
           <p contentEditable>
             <p>вы можете отредактировать текст ниже</p>
